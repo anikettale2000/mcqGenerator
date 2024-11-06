@@ -1,0 +1,6 @@
+import -
+Open Ai 
+Langchain
+Streamlit
+Python- .evn
+pyPDF2
